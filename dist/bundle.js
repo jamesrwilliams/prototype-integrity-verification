@@ -1,0 +1,1 @@
+(()=>{"use strict";!function(e){var o=document.createElement("iframe");if(o.src="about:blank",document.body.appendChild(o),o.contentWindow){var n=o.contentWindow[0];console.log(n)}console.log("Heartbeat"),document.body.removeChild(o)}()})();
